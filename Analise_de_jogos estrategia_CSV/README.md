@@ -1,0 +1,2 @@
+# Projeto de coleta, processamento, analise de dados, disponibilização em banco de dados e criação de visualização.
+# Utilizandos bibliotecas do python como pandas, banco de dados Mysql e Power BI para criar a visualização
